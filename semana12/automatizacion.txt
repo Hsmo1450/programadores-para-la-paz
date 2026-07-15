@@ -1,0 +1,8 @@
+Evento:
+Nueva causa registrada en la plataforma.
+
+Mensaje enviado:
+"Nueva causa creada en la plataforma. Revísala y apóyala si estás de acuerdo."
+
+Información que no debe enviarse:
+No deben enviarse cédulas, números de teléfono, direcciones, correos electrónicos, comentarios sensibles ni otros datos personales de los usuarios para proteger su privacidad.
